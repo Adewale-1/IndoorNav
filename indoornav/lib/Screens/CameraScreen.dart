@@ -22,7 +22,7 @@ class _CameraScreenState extends State<CameraScreen> {
   late List<CameraDescription> camera;
   bool _isControllerInitialized = false;
   bool _isPictureTaken = false;
-  
+
   String ipAddress = 'add_your_ip_address_and_port_here';
   String userInput = "";
   @override
