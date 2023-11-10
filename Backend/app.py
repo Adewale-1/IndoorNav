@@ -28,13 +28,13 @@ def create_app():
         3. The 'image' should contain readable text that can be processed by the OCR pipeline.
         4. The room numbers specified in the image and the 'room_number' value should exist 
             in the CSV file used by the `findCoordinates` function.
-        5. If the floor number derived from the start room is 3 or 4, the corresponding 
-            image file (goodFloor3.png or goodFloor4.png) must exist in the current directory.
+        5. If the floor number derived from the start room is 3- which represents 31 -  or 4, the corresponding 
+            image file (goodFloor31.png or goodFloor4.png) must exist in the current directory.
 
         Ensures:
         1. If all preconditions are met, the function will return a string representation 
             of the image with the path from the start room to the end room.
-        2. If the floor number is not 3 or 4, the function will return the string "Noneee".
+        2. If the floor number is not 3- which represents 31 - or 4, the function will return the string "Noneee".
         3. The function will print various status messages and the total runtime to the 
             console.
     """
