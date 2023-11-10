@@ -2,6 +2,8 @@
 
 This project is an Indoor Navigation System that uses image recognition and pathfinding algorithms to determine the shortest path between two points in a building. The backend is implemented in Python using Flask and Tensorflow, and the frontend is implemented in Dart using Flutter.
 
+Currently, the project is configured for the 3rd floor of Bolz Hall (building link: https://www.osu.edu/map/building/146). However, it can be configured to add other floors or buildings.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
