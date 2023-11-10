@@ -22,7 +22,8 @@ class _CameraScreenState extends State<CameraScreen> {
   late List<CameraDescription> camera;
   bool _isControllerInitialized = false;
   bool _isPictureTaken = false;
-  String ipAddress = 'http://192.168.24.228:8080';
+  
+  String ipAddress = 'add_your_ip_address_and_port_here';
   String userInput = "";
   @override
   void initState() {
