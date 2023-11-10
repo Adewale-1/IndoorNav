@@ -59,6 +59,7 @@ You need to have the following installed:
 If you are running the backend and frontend on the same machine, you need to set the `ipAddress` variable in the `CameraScreen.dart` file to your local IP address. Here are the steps:
 
 1. Find your local IP address. The steps to do this vary depending on your operating system:
+
    - On Windows, open the Command Prompt and type `ipconfig`. Your local IP address is listed next to `IPv4 Address`.
    - On Mac, open System Preferences, click on Network, and your IP address will be displayed.
    - On Linux, open the Terminal and type `hostname -I`.
@@ -66,6 +67,7 @@ If you are running the backend and frontend on the same machine, you need to set
 2. Open the `CameraScreen.dart` file in your IDE.
 
 3. Find the `ipAddress` variable and set it to your local IP address. Make sure to include the port number (`:8080`) at the end. It should look like this:
+
    ```dart
    String ipAddress = 'http://your.local.ip.address:8080';
    ```
@@ -81,15 +83,13 @@ Now, the Flutter app will send requests to the Flask API running on your local m
 ### If you are running the backend and frontend on different machines, you will see a message in your terminal when you run the Flask API:
 
 ```
-Serving Flask app 'app' 
+Serving Flask app 'app'
 Debug mode: off
 Running on all address (0.0.0.0)
 Running on http://local.ip.address:8080
 ```
 
 In this case, you should set the `ipAddress` variable in the `CameraScreen.dart` file to `http://local.ip.address:8080`.
-
-
 
 ## Usage
 
@@ -105,7 +105,7 @@ Here is a brief explanation of the key files in the project:
 
 - `MapScreen.dart`: This is the Flutter screen where the path image returned from the Flask API is displayed.
 
-- `image_analysis.py`: This file contains functions for loading an image, checking if a pixel is navigable, checking if a pixel position is valid, applying the A* algorithm to find a path, and drawing the path on the image.
+- `image_analysis.py`: This file contains functions for loading an image, checking if a pixel is navigable, checking if a pixel position is valid, applying the A\* algorithm to find a path, and drawing the path on the image.
 
 - `image_reader.py`: This file contains functions for extracting text from an image and finding a path in an image.
 
@@ -117,8 +117,9 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## Acknowledgments
 
-
-
+- Thanks to [Daniel](https://github.com/danield33) for his significant contributions to this project.
+- Also, thanks to the open source community for providing the resources needed to learn and build this project.
 
 Project Link: [https://github.com/Adewale-1/IndoorNav](https://github.com/your_username/repo_name)
