@@ -121,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
-- Thanks to [Daniel](https://github.com/danield33) for his significant contributions to this project.
+- Thanks to [Daniel](https://github.com/danield33), Stanley, and Jacob for their significant contributions to this project.
 - Also, thanks to the open source community for providing the resources needed to learn and build this project.
 
 Project Link: [https://github.com/Adewale-1/IndoorNav](https://github.com/your_username/repo_name)
