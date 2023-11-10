@@ -1,0 +1,9 @@
+keras-ocr
+flask
+opencv-python  # Use the latest available version
+pytesseract
+keras-ocr
+Pillow
+matplotlib
+numpy
+tensorflow
