@@ -11,7 +11,7 @@ Currently, the project is configured for the 3rd floor of [Bolz Hall](https://ww
 ## Demonstration Video
 
 <a href="https://drive.google.com/file/d/1UoUfOGXcpwIAxad-Ibmt2-q5WqtvLG2z/view?usp=sharing">
-    <img src="thumbnail.png" alt="Watch the video" width="400" height="200">
+    <img src="thumbnail.png" alt="Watch the video" width="400" height="600">
 </a>
 
 ## Getting Started
