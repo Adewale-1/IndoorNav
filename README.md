@@ -4,6 +4,10 @@ This project is an Indoor Navigation System that uses image recognition and path
 
 Currently, the project is configured for the 3rd floor of [Bolz Hall](https://www.osu.edu/map/building/146) at the Ohio State University. However, it can be configured to add other floors or buildings.
 
+## Demonstration Video
+
+[![Watch the video](https://via.placeholder.com/800x400.png?text=Click+to+Watch+Demo)](https://drive.google.com/file/d/1UoUfOGXcpwIAxad-Ibmt2-q5WqtvLG2z/view?usp=sharing)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
