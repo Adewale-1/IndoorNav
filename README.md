@@ -6,7 +6,7 @@ Currently, the project is configured for the 3rd floor of [Bolz Hall](https://ww
 
 ## Demonstration Video
 
-[![Watch the video](https://via.placeholder.com/800x400.png?text=Click+to+Watch+Demo)](https://drive.google.com/file/d/1UoUfOGXcpwIAxad-Ibmt2-q5WqtvLG2z/view?usp=sharing)
+[![Watch the video](thumbnail.png)](https://drive.google.com/file/d/1UoUfOGXcpwIAxad-Ibmt2-q5WqtvLG2z/view?usp=sharing)
 
 ## Getting Started
 
